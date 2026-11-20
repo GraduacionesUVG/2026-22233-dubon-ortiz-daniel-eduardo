@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+bin/
+*.log
+*.exe
+*.test
+gimpy-api
+
+# Coverage
+coverage.out
+coverage.html
+
+# Temporary
+tmp/
+temp/

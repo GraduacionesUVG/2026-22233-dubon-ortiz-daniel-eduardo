@@ -1,0 +1,26 @@
+Copyright (c) 2026 Daniel Eduardo Dubón Ortiz. Todos los derechos reservados.
+
+Este software, su código fuente y su documentación asociada (en adelante, "el
+Trabajo") son propiedad exclusiva de su autor, Daniel Eduardo Dubón Ortiz
+(carné 22233), y fueron desarrollados como trabajo de graduación en la
+Universidad del Valle de Guatemala (UVG).
+
+NO SE CONCEDE PERMISO para usar, copiar, modificar, fusionar, publicar,
+distribuir, sublicenciar, vender ni crear obras derivadas del Trabajo, ni de
+ninguna parte de él, sin la autorización previa y por escrito del autor.
+
+Excepción: se concede permiso únicamente a la Universidad del Valle de
+Guatemala y a las personas que esta designe para consultar, ejecutar y
+evaluar el Trabajo con el único fin de revisar y calificar este trabajo de
+graduación. Este permiso no incluye ningún otro uso, copia ni distribución.
+
+EL TRABAJO SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD
+PARA UN FIN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR SERÁ
+RESPONSABLE POR RECLAMACIONES, DAÑOS U OTRAS RESPONSABILIDADES DERIVADAS DEL
+TRABAJO O DE SU USO.
+
+Componentes de terceros: las dependencias de Go listadas en src/go.mod y los
+datos del catálogo de ejercicios (src/scripts/db/seed_exercises.sql, generados
+a partir de https://github.com/hasaneyldrm/exercises-dataset, licencia MIT)
+conservan sus propias licencias, que no se ven modificadas por este aviso.
